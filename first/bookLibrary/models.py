@@ -1,6 +1,6 @@
 from django.db import models
 
-from bookLibrary.models_base import BaseModel, NotDeleteManager
+from core.models import BaseModel, NotDeleteManager
 
 
 # Create your models here.

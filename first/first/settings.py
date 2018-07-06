@@ -37,7 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # 我的APP
     'bookLibrary',
+    'core',
     # 'layui',
+    'sort',
 ]
 
 MIDDLEWARE = [
