@@ -36,8 +36,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # 我的APP
-    'blog',
-    'timing',
+    'bookLibrary',
+    'layui',
 ]
 
 MIDDLEWARE = [
